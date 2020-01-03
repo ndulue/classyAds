@@ -1,0 +1,306 @@
+/*------------------------------------------------------------------
+    1. theme_color_2
+-------------------------------------------------------------------*/
+
+#navbar_menu ul ul li a:hover,
+#navbar_menu ul ul li a:focus,
+.bg_load,
+.theme_color_bg,
+.price_table_active .price_head,
+a.btn.dark_gray_bt:hover,
+a.btn.dark_gray_bt:focus,
+.carousel-indicators .active,
+.social_icon_style_2 ul li a:hover,
+.social_icon_style_2 ul li a:focus,
+.progress-bar,
+.tags a:hover,
+.tags a:focus,
+.testimonial_slider .carousel-control:hover,
+.testimonial_slider .carousel-control:focus,
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover,
+.icon_feature,
+a.btn.main_bt,
+button.btn.main_bt {
+    background-color: #2a71e6;
+}
+
+.heading_small h3::after {
+    background: #2a71e6;
+}
+
+.blog_feature_cantant p.author_name {
+    color: #2a71e6;
+}
+
+.footer_info.footer_menu li:hover a, .footer_info.footer_menu li:focus a {
+    color: #2a71e6;
+}
+
+.blog_post_date,
+.read_more {
+    background: #2a71e6;
+}
+
+.information_blog li {
+    border-color: #2a71e6;
+}
+
+#navbar_menu ul ul {
+    border-color: #2a71e6;
+}
+
+#navbar_menu.small-screen #menu-button {
+    border-color: #2a71e6;
+}
+
+#navbar_menu.small-screen #menu-button::before,
+#navbar_menu.small-screen #menu-button.menu-opened::after,
+#navbar_menu.small-screen #menu-button.menu-opened::before {
+    background: #2a71e6;
+}
+
+#navbar_menu.small-screen #menu-button::after {
+    border-color: #2a71e6;
+}
+
+.full_slider_inner {
+    background: #f8f8f8;
+}
+
+.header_top {
+    background: #f3f3f3;
+}
+
+.dark_bg {
+    background-color: #273a47;
+}
+
+.dark_bg_2 {
+    background-color: #132029;
+}
+
+.dark_bg_light {
+    background-color: #3e505a;
+}
+
+a.btn.main_bt:hover,
+a.btn.main_bt:focus,
+button.btn.main_bt:hover,
+button.btn.main_bt:focus {
+    background: #225ab6;
+    color: #fff;
+}
+
+.header_top ul li a:hover,
+.header_top ul li a:focus,
+.header_top ul li a:active {
+    color: #2a71e6;
+}
+
+.tp-bannertimer {
+    background: #2a71e6 !important;
+}
+
+a.btn.dark_gray_bt:hover,
+a.btn.dark_gray_bt:focus {
+    color: #fff;
+}
+
+a.btn.light_btn,
+button.btn.light_btn {
+    background: #2a71e6;
+}
+
+a.btn.light_btn:hover,
+a.btn.light_btn:focus button.btn.light_btn:hover,
+a.btn.light_btn:focus {
+    background: #fff;
+    color: #2a71e6 !important;
+    border-color: #fff;
+}
+
+.client_review_slider {
+    border-color: #2a71e6;
+}
+
+.testimonial_slider .carousel-control {
+    background-color: #2a71e6;
+}
+
+hr.dottad_border,
+.tags a:hover,
+.tags a:focus,
+.comment_section,
+.boder_dottat_small {
+    border-color: #632e62;
+}
+
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover {
+    border-color: transparent;
+}
+
+.theme_color,
+.social_icon_style_2 li a,
+.blog_section p.comm_head,
+.blog_section p.comm_head a.rply,
+.description_case_studies_style_2 span i,
+.price_table_active .price_amount,
+.post_head a:hover,
+.post_head a:focus,
+a.read_more,
+.icon_bottom,
+ul.list_style_1 i,
+.categary a:hover,
+.categary a:focus,
+.post_info li i,
+.comment_cantrol span,
+.footer_top ul.footer_menu li a:hover,
+.footer_top ul.footer_menu li a:focus,
+footer .social_icon ul li a:hover,
+footer .social_icon ul li a:focus,
+a.btn:hover,
+button.btn:hover,
+a.btn:focus,
+button.btn:focus {
+    color: #2a71e6;
+}
+
+.price_table_active a.btn:hover,
+.price_table_active a.btn:focus {
+    background: #252525;
+    color: #fff;
+}
+
+.border_dotted_circle:hover,
+.border_dotted_circle:focus {
+    border-color: #632e62;
+}
+
+.btn.light_theme_bt {
+    background: #a864a8;
+}
+
+.btn.light_theme_bt:hover,
+.btn.light_theme_bt:focus {
+    background: #50254f;
+    color: #fff;
+    border: solid #50254f 1px;
+}
+
+.theme_color_bg .border_dotted_circle,
+.theme_color_bg .border_dotted_circle:hover,
+.theme_color_bg .border_dotted_circle:focus {
+    border-color: #fff;
+}
+
+button.border_btn_white_border,
+a.border_btn_white_border {
+    background: transparent;
+    border: solid #fff 1px;
+}
+
+button.border_btn_white_border:focus,
+button.border_btn_white_border:hover,
+a.border_btn_white_border:hover,
+a.border_btn_white_border:focus {
+    background: #fff;
+    border: solid #fff 1px;
+}
+
+body.light_blue button.btn.white_btn:hover,
+body.light_blue a.btn.white_btn:hover,
+body.light_blue button.btn.white_btn:focus,
+body.light_blue a.btn.white_btn:focus {
+    background: #632e62;
+    border-color: #632e62;
+    color: #fff;
+}
+
+.footer_bg_color {
+    background-color: #19262e;
+    border-bottom: solid rgba(255, 255, 255, .1) 1px;
+}
+
+.member_heading {
+    border-color: #2a71e6;
+}
+
+.section_title h2 span {
+    color: #fa6742;
+}
+
+.section_title h2 span {
+    color: #2a71e6;
+}
+
+
+/** layer 2 **/
+
+.seo_layer_2 {
+    background-image: url('../images/layer_2_b.png');
+    width: 100%;
+    background-position: center bottom;
+    height: 100%;
+    background-repeat: no-repeat;
+    bottom: 0;
+    z-index: 1;
+}
+
+.section_title.white_heading_icon h2::after {
+    background-image: url("../images/head_typo_b_white.png");
+    content: "";
+    display: block;
+    width: 400px;
+    height: 35px;
+    margin: 20px auto 0;
+    background-position: center center;
+}
+
+.world_map {
+    background-image: url('../images/map_bg.png');
+    width: 100%;
+    background-position: center center;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.header_top ul li a.free_seo_anly_bt {
+    background: #2a71e6;
+}
+
+.footer_heading h3 i {
+    background: #2a71e6;
+}
+
+.main_heading.heading_icon h2 small {
+    color: #2a71e6;
+}
+
+.main_heading.heading_icon h2 {
+    background-image: url('../images/heading_icon_2.png');
+}
+
+.main_heading.heading_icon.white_icon_head h2 {
+    background-image: url('../images/heading_icon_2_w.png');
+}
+
+.section_title h2::after {
+    content: "";
+    display: block;
+    width: 400px;
+    height: 35px;
+    background: url(../images/head_typo_b.png);
+    margin: 20px auto 0;
+    background-position: center center;
+}
+
